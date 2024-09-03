@@ -99,6 +99,7 @@ int main() {
     fclose(outputFile);
 
     printf("Analysis complete. Check output.txt for results.\n");
+    printf("get some output");
 
     return 0;
 }
